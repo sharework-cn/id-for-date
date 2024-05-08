@@ -1,0 +1,5 @@
+{
+    "twinny.enabled": true,
+    "twinny.autoSuggestEnabled": true,
+    "twinny.multilineCompletionsEnabled": true
+}
